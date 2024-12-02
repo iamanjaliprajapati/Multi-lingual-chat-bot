@@ -30,7 +30,6 @@ app = FastAPI(
     version="1.0",
 )
 
-
 add_routes(
     app,
     chain,
